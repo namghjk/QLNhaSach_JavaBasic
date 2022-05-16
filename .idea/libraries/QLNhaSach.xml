@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="QLNhaSach">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/QLNhaSach.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
